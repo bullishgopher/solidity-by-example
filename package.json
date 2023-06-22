@@ -8,17 +8,8 @@
     "format": "prettier --write \"**/*.+(ts|json)\"",
     "lint": "eslint \"src/**/*.{ts,js}\" --cache --quiet --fix --color"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gokhanmelma/solidity-by-example.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gokhanmelma/solidity-by-example/issues"
-  },
-  "homepage": "https://github.com/gokhanmelma/solidity-by-example#readme",
   "devDependencies": {
     "hardhat": "^2.6.5",
     "husky": "^4.3.8",
